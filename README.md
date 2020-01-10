@@ -15,7 +15,7 @@ Download and install SPIN. Create a screen shot showing it working on the machin
 
 ## 2. Prove Mutual Exclusion (30 points)
 
-Model the following mutual exclusion algorithm with Promela (25 points) and prove is *correctness* or *incorrectness* with SPIN (5 points).
+Model the following mutual exclusion algorithm with Promela (25 points) and prove its *correctness* or *incorrectness* with SPIN (5 points).
 
 ```c
 /*
